@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+			<style>
+            	*	{
+						margin:0 auto;
+						font-family:"微软雅黑";
+						font-size:14px;
+						color:#FFF;
+					
+					
+					}
+					
+				ul,li{   
+						 margin:0px;
+						 padding:0px;
+						 
+						 
+						 
+						
+					 }
+					ul {  float:left;}
+					
+				#big
+					{
+						width:auto;
+						height:2250px;
+						border:#3C3 1px solid;
+						background-image:url(images/bg.jpg);
+						
+						}
+        		#box{
+						width:100%;
+						height:31px;
+						border:#099 1px solid;
+						background:#dbdbdb;
+							
+					}
+					
+					.one
+						{
+							width:1199px;
+							height:31px;
+							border:#9C0 1px solid;
+							background:#dbdbdb;
+							
+							}
+        
+        		#box-1
+					{	
+						width:1199px;
+						height:150px;
+						border:#9C3 1px solid;
+						font-family:微软雅黑;
+						font-size:16px;
+						color:#666;
+						line-height:150px;
+						text-align:right;
+						
+						
+						
+						}
+				#box-2
+					{
+						width:auto;
+						height:50px;
+						border:#03F 1px solid;
+						background:#888888;
+						line-height:40px;
+						
+						
+						}
+						
+						.two
+							{
+								width:800px;
+								height:50px;
+								border:#693 1px solid;
+								margin-left:230px;
+								}
+						
+				#box-3
+					{	
+						width:1199px;
+						height:250px;
+						border:#33C 1px solid;
+						
+						}
+						
+				#box-4
+					{	
+						width:1199px;
+						height:2000px;
+						border:#C93 1px solid;
+						background-color:#FFF;
+						color:#666;
+						
+						
+						
+						}
+						
+						.four
+								{
+									width:300px;
+									height:1990px;
+									border:#906 1px solid;
+									float:left;
+									
+									
+									}
+								.in
+									{
+										width:250px;
+										height:45px;
+										border:#F96 1px solid;
+										margin:20px auto auto auto;
+										line-height:45px;
+										font-size:16px;
+										
+										
+										}
+						
+						#in
+							{
+								width:895px;
+								height:100px;
+								border-bottom:#CCC 1px dashed;
+								float:right;
+								text-align:center;
+								color:#666;
+								line-height:60px;
+								font-size:16px;
+								
+								}
+								
+						#in-1
+							{
+								width:895px;
+								height:400px;
+								border-bottom:#333 1px dashed;
+								float:right;
+								font-size:17px;
+								color:#666;
+								text-align:left;
+								margin-top:30px;
+								}
+								
+					
+				#box-5
+					{	
+						width:auto;
+						height:230px;
+						border:#9C9 1px solid;
+						background:#1e3242;
+						
+						
+						
+						
+						}
+						
+						.five-0
+							{
+								width:1199px;
+								height:90px;
+								border:#0FF 1px solid;
+								font-family:"微软雅黑";
+								font-size:15px;
+								color:#a5d0f4;
+								font-weight:900;
+								text-align:center;
+								line-height:110px;
+								
+								}
+						
+						.five
+							{
+								width:1199px;
+								height:134px;
+								border:#C33 1px solid;
+								
+								
+								
+							}
+						
+						
+					
+						
+				#box-6
+					{
+						width:auto;
+						height:85px;
+						border:#336 1px solid;
+						background:#1e1e1e;
+						text-align:center;
+						line-height:35px;
+						
+						}
+						
+				p{ font-size:18px;
+				color:#666;}
+            
+            
+            </style>
+</head>
+
+<body>
+
+
+			
+				<div id="box">
+                	<div class="one">
+                    	<p style="float:right; color:#5b5b5b; line-height:30px; margin-right:10px;">友情链接：&emsp;&emsp;3D客&emsp;&emsp; 先临三维&emsp; &emsp;左岸设计</p>
+                    </div>
+            
+            	
+            
+            
+           		<div id="box-1">
+            		<img src="images/o_e529e6346aed484c8d4716607d100465.png" width="850" height="150" style="float:left;" />
+                    
+                   &emsp;&emsp;服务电话&nbsp;:<span style="font-family:微软雅黑; color:#ec1f1f; font-size:30px; float:right; line-height:140px;">400-8825-195</span>
+            	</div>
+            
+            	<div id="box-2">
+                
+                	<div class="two">
+            		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;网站首页&emsp;&emsp; | &emsp;&emsp; 关于我们&emsp;&emsp; | &emsp;&emsp; 新闻资讯&emsp;&emsp;  | &emsp;&emsp; 服务项目&emsp;&emsp; |&emsp;&emsp; 解决方案&emsp;&emsp;  | &emsp;&emsp; 联系我们&emsp;&emsp; |
+                    
+                    </div>
+                    
+            	</div>
+             <div id="big">   
+                <div id="box-3">
+            			<img src="images/sbmjdt.jpg" width="1199" height="250" />
+                        
+                        
+            	</div>
+                
+                <div id="box-4">
+            			<div class="four">
+                        		<div class="in" style="background:#333333; border-left:#333333 9px solid;">
+                                	&emsp;新闻资讯
+                                </div>
+                                
+                                <div class="in" style="background:#eeeeee; border-left:#333333 9px solid; font-family:微软雅黑; color:#5b5b5b;">
+                                	&emsp;新闻资讯
+                                </div>
+                                
+                                <div class="in" style="background:#eeeeee;border-left:#333333 9px solid; font-family:微软雅黑; color:#5b5b5b;">
+                                	&emsp;3D打印百科
+                                </div>
+                        </div>
+                        
+                        
+                        
+                        <div id="in">
+                        <span style="font-size:24px; color:#000; font-weight:bold;">他仰头看着潭那头那巨大吼叫的水帘(2016-2017年)</span><br />
+                        
+                       发表日期：2017/10/4 20：50  浏览次数：<span style="color:#F00">100</span>次
+                        </div>
+                        
+                        
+                        <div id="in-1">
+                     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;你会长大的啊（2015）57号<br /><br />
+“真的吗？”阿笨高兴的拍翅膀大叫：“我会长大的，会长大的。”
+石头也坐在一边看着，不知为什么好象有些忧郁<br /><br /><br />
+“好大的水啊，谁能进去了再出来，我们就服了他。”众猴叫道。
+“对，哈哈哈！你敢么？”
+“你敢么？”
+“我去！”一只猴蹦出来，可刚到潭边做个跳的样子就嘻笑着折回来。
+“谁敢去啊？”
+“我……”一个微弱的声音说，可众猴跳着闹着，互相推搡着，乱成一团，追逐着四下蹦开了，没人听见这声音。<br /><br /><br />
+石头一个人站在那，没有猴来问他敢不敢。他仰头看着潭那头那巨大吼叫的水帘，风一起，水雾扑面洒来，让人透不过气。<br /><br /><br /><br />
+
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 一片叶子<br />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;今何在<br />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2017/10/4
+                       </div>
+                       <p>他在寺院内好象越来越孤独了，所有僧人见了他都怪怪的笑笑，法明也不再理他，讲经也再无人叫他。</p>
+					   
+					   <p>当众人在大殿内吟诵时，玄奘便一个人在空旷的广场上扫落叶，把每一片枯叶又放回树根旁。</p><br><p>要不就是一个人躺在地上，别人以为他在睡觉，其实小白龙知道他在看天，一看就是一个多时辰。晚上，他回到一个人住的杂物破屋，点上微弱的油灯写着些什么。</p><br><br><p>他越来越沉默，越来越少和小白龙和花草说话，他那天空般明朗的笑容渐渐消失了，随着时间的流浙，一种东西渐渐爬上了他的眉间，他不再扫落叶，也不再看天，他只是整天坐在那想啊想。</p>
+                       
+                       
+
+<p>他很苦恼，小白龙想，他定有想不通的东西，可是她不知道他在想什么，她和他共处这么久，反而越来越不能了解他的内心，人心里究竟有什么？小白龙发誓一定要弄个明白。有时他在灯下写字，她在水缸里乱蹦，以前玄奘都会对她笑笑，但现在，他理也不理了。</p>
+
+<p>他也不提送她回家的事，她也不想他提。</p><br><br>
+<br>
+<p>一个叫玄生的说：“我看这佛，如庭前大树，千枝万叶，不离其根。”</p>
+<p>另一叫玄淇的道：“我也有一比，我看这佛，如院中古井，时时照之，自省我心。”
+四周众僧皆道：“二位师兄所言妙极，真显佛法要义。”</p>
+<p>那二人颇有得意之色，却见玄奘一边独坐，不理不睬。
+玄淇叫道：“玄奘，我们所言，你以为如何呀？”</p>
+<p>玄奘头也不回，笑道：“若是我时，便砍了那树，填了那井，让你们死了这心！”
+玄生玄淇均跳起来：“好狠的和尚，看不得我们得奥义么？”</p>
+<p>玄奘大笑道：“若是真得奥义，何来树与井？”</p>
+<p>“哼！那你倒说佛是什么？”</p>
+<p>“有佛么，在哪儿？你抓一个来我看！”玄奘说。
+“俗物！佛在心中，如何抓得。”
+“佛在心中，你说它作甚？不如放屁！”</p>
+<p>玄淇大怒，骂道：“你这业畜！口出混言，玷辱佛法！怪不得佛祖要让你江上飘来，姓名也不知，父母也不识！”</p>
+<p>此言一出，只见玄奘脸色大变，竟如纸一般白。</p>
+<p>玄淇自知失言，众人见势皆散。</p>
+<p>广场上只剩玄奘一人。
+风把几片枯叶吹到他脚边，天边一只孤雁悲鸣几声，惊起西天如血夕阳。</p>
+<p>“何人……何人生我？生我又为何？”玄奘喃喃道，“既带我来，又不指我路……为何，为何啊！”
+他抬头高声问天，苍天默默，唯有一滴泪滑落嘴边。</p>
+<p>玄奘回到了小屋，小白龙正在屋里偷翻他的书卷，见他来，忙一转身化成水缸中的鲤鱼。
+玄奘在屋中愣了半晌，忽开始收拾东西。</p>
+<p>小白龙看着他打了一个包袱，又来到水缸边。</p>
+<p>“走吧，我送你回家。”玄奘说。</p>
+<p>玄奘要离寺，法明也无法阻他，只叹道：“你天生孤苦，以后要将佛祖长挂心头，以求时时保佑才是。”
+“师父，我一直在想，天下万物，皆来于空，可这众生爱痴，从何处来？天下万物，又终归于空，那人来到尘世浮沉，为的又是什么？”</p>
+<p>“这……其实为师老实与你讲，若是能说的明白时，也就不用为师这多年苦修了。”
+“师父，告辞了，弟子要去走一段长路。”
+法明道：“为师明白你的心思，多保重。”</p>
+<p>当下唱偈一首：道法法不可道，问心心无可问，悟者便成天地，空来自在其中。
+“弟子谨记在心。”</p>
+<p>玄奘向法明长老再拜三次，起身捧着装着金色鲤鱼的钵盂，转头而去了。
+其时天地肃穆，无边落叶萧萧而下，风声，草木瑟瑟声，潮声，鸟鸣声，天地间仿佛突然充满了各种声音，仿佛有无数个声音正在说话，细一听，却又什么也没有。</p>
+
+<p>一次伟大的远行，就此拉开序幕。</p>
+<p>大江边玄奘捧着钵盂，说道：“当年，我就是从这里来的。”
+江上白雾弥漫，疾风卷起他的衣裳，他好象在对小白龙说，又好象在对自己说。
+“万物生成皆神圣，一草一木总关情，你也有你的家，你的自在，我不能再留住你，你去吧。”
+他把金色鲤鱼放入江中，那鱼打了几个盘旋，却不离去。
+“你也是有情谊的么？我心领了，去吧。”玄奘说。</p>
+<p>小白龙忽然觉得自己要哭了，这些天她没说一句话，只是听和尚说，看和尚读书，扫地，看和尚思索时紧锁的眉头，看和尚入睡时平和的面容。她觉得她已离不开这些，龙宫里没有这样一个人，万里东海没有这样一个人，茫茫尘世也只有一个这样的人。</p>
+
+<p>她真的要这样与他离别？</p>
+<p>“相遇皆是缘，缘尽莫强求，我要去天边，你又跟不得我，去吧。”和尚在劝她。
+小白龙忽然有种冲动，他要现出真身，告诉和尚这一切，然后陪他一起走遍天涯。
+但她最终还是没有，她一摆头，向出海口游去了。</p>
+<p>水中，一颗晶莹的珍珠缓缓沉入江底。</p>
+<p>一切都会消逝，能留下的只有记忆。而记忆是实在还是虚幻？它摸不着看不到，但它却又是那样沉重的铭刻在心。</p>
+            	</div>
+                
+                
+                
+            </div>
+            	<div id="box-5">
+                	<div class="five-0">
+                 		关于我们&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  新闻资讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  服务项目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 解决方案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 案例介绍&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  联系我们
+                 	</div>
+                	<div class="five">
+                    
+                    	<ul style="margin-left:10px;" >
+                        	<li>公司简介</li>
+                     	</ul>
+                        
+                        <ul style="margin-left:180px;" >
+                        	<li>新闻资讯</li>
+                            <li>3D打印百科</li>
+                        </ul>
+                        
+                        <ul style="margin-left:150px;">
+                        	<li>3D打印</li>
+                            <li>三维扫描</li>
+                            <li>教育培训</li>
+                            <li>设备销售</li>
+                        </ul>
+                        
+                        <ul style="margin-left:180px;">
+                        	<li>解决方案</li>
+                            <li>解决方案</li>
+                        </ul>
+                        
+                        
+                        <ul style="margin-left:150px;">
+                        	<li>成功案例类别</li>
+                            <li>成功案例类别</li>
+                        </ul>
+                        
+                        <ul style="margin-left:150px;">
+                        	<li>地址</li>
+                            <li>地址</li>
+                            <li>地址</li>
+                        </ul>
+                    </div>                                                           
+                                                                         
+                	
+            	</div>
+            
+            	<div id="box-6">
+            			地址：温州市鹿城区学院中路七号 浙江创意园 D栋101<br />
+                          copyright &copy 2015 温州先临左岸 版权所有
+            	</div>
+</body>
+</html>
